@@ -1,7 +1,9 @@
 # RMIT-CSIT-Survival-Guide
 A collection of tips and tricks for RMIT CSIT students
 
-## Import your Calendar
+-----------------------------
+
+## Importing Your Timetable into Calendar
 
 First thing you should do -> Import your **calendar** from myTimetable to google cal/iOS calendar/whatever this lets you always know where your class is instead of fumbling with printouts you keep losing.
 
@@ -39,10 +41,14 @@ Learn how to use **git** and **GitHub** as soon as you possibly can and back up 
 Finally, go to the **CSIT mentoring room** OFTEN and go as SOON as possible (i.e. not when your assignment is overdue!) They're open from **10am until 6pm** and they will help you **FOR FREE**. They can help you with your lab work, tutorial work, **setting up your developer environment** and your assignments. Make a habit of going every week. 
 
 ## Maths
+
 If you need **mathematics** help you can also go to the **MATH DROP-IN CENTRE** locating at **Swanston Library** in Building 8/10 Level 5 -> https://www.rmit.edu.au/students/study-support/study-and-learning-centre/drop-in
 
 ## Assignments
+
 p.s. **START YOUR ASSIGNMENTS AT LEAST A WEEK BEFORE THEY ARE DUE. ESPECIALLY THE ROBOT ASSIGNMENT FOR PROGRAMMING TECHNIQUES! IF YOU NEED EXTENSIONS THEY NEED TO BE REQUESTED IN ADVANCE OF THE DUE DATE**
+
+-----------------------------
 
 Good luck.
 
